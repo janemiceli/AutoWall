@@ -1,8 +1,7 @@
 # AutoWall
 
 <p align="center">
-<img src="https://github.com/SegoCode/AutoWall/blob/master/media/demo.gif">
-<img src="https://img.shields.io/badge/core-weebp & mpv-red?style=flat-square"> <img src="https://img.shields.io/badge/-%20Made%20with%20Autoit%20❤-blue.svg?style=flat-square"> <img src="https://img.shields.io/badge/Platform%20%26%20Version%20Support-Windows%2010-green?style=flat-square"> <img src="https://img.shields.io/github/languages/code-size/segocode/autowall?style=flat-square">
+<img src="https://github.com/janemiceli/AutoWall/blob/master/media/matrixdesktop.gif">
 </p>
 
 ## About
